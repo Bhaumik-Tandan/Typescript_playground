@@ -1,0 +1,6 @@
+{
+    "compilerOptions":{
+        "rootDir":"./ts_files",
+        "outDir":"./js_files"
+    }
+}

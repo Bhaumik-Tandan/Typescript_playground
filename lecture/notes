@@ -1,0 +1,4 @@
+npm install -g typescript
+typescript transpile to js es3
+tsc -w
+npm install -g ts-node
